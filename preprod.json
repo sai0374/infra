@@ -5,7 +5,7 @@
   }, 
   {
     "ParameterKey": "InstanceType",
-    "ParameterValue": "t2.micro"
+    "ParameterValue": "ami-6f68cf0f"
   },
    {
     "ParameterKey": "KeyName",
