@@ -1,11 +1,11 @@
 [
   {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-30697651"
+    "ParameterValue": "ami-6f68cf0f"
   }, 
   {
     "ParameterKey": "InstanceType",
-    "ParameterValue": "ami-6f68cf0f"
+    "ParameterValue": "t2.micro"
   },
    {
     "ParameterKey": "KeyName",
