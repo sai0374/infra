@@ -13,10 +13,10 @@
    },
   {
      "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-5e209a39"
+    "ParameterValue": "subnet-9c2af6d5"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-db125ba3"
+    "ParameterValue": "sg-2383d95b"
   }
 ]
